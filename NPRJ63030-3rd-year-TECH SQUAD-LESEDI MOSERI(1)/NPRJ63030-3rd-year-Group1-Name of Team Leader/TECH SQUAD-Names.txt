@@ -1,0 +1,12 @@
+Name and Surname Student Number
+
+TECH SQUAD 
+
+LESEDI 202342368-GROUP LEADER
+MASIPHILE ZWANE 202400528
+YVANN MASSOUKOU MPIKA 202413207
+TSHEPO MOGAKANE 202410894
+
+Link to git repo:
+
+https://github.com/lesedi-moseri/NPRT63.git
